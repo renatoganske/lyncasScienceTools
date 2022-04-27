@@ -1,0 +1,8 @@
+config:
+  message: Lyncas Science Software API
+
+server:
+  port: 2240
+  servlet:
+    context-path: /
+

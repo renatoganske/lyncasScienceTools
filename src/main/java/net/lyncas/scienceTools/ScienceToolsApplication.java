@@ -1,4 +1,4 @@
-package nte.lyncas.scienceTools;
+package net.lyncas.scienceTools;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
